@@ -1,0 +1,57 @@
+	Serca pustyni
+
+############################################################################################
+
+Gry, z których zapożyczono pomysły:
+
+	This war is mine
+
+	Valiant Hearts: The Great War
+	
+	Riot simulator
+
+	Total War
+
+##############################################################################################
+
+Mechanika gry:
+
+Możliwość swobodnego poruszania się po lokacji podczas niektórych misji.
+
+* W tej chwili możesz chodzić po lokacji i wchodzić w interakcje z postaciami i obiektami na scenie
+
+* Podczas interakcji możliwe będzie wywołanie dialogu z inną postacią, w którym będzie minimalny wybór
+
+* Można zapisać podczas podobnych misji
+
+* Będą ukryte zadania
+
+###############################################################################################
+
+kompania wojskowa
+
+
+	Misje typu bojowego.
+
+* Bitwy takie jak Total War
+
+* W której gracz dowodzi całą armią i musi wykonać zadanie
+
+* Po każdej bitwie powinna być scena z masowym grobem i liczbą zabitych
+
+
+	Zadanie specjalne typu misja
+
+* Zadanie jest podobne do: rajd: z gry Ta wojna jest moja, w której jest określone zadanie do wykonania
+
+* Podczas takiego zadania wykonujesz zadanie nie armią, ale określoną grupą żołnierzy z 5 żołnierzami, w tym głównym bohaterem
+
+* Po ukończeniu misji bez utraty drużyny gracz zostanie przeniesiony do okna przygotowującego się do ostatecznej bitwy
+
+* Podczas wykonywania misji ze stratami personelu pojawi się scena z grobem martwego żołnierza
+
+* Jeśli się powiedzie, liczba wrogich żołnierzy w :Ostateczna bitwa: będzie mniejsza
+
+* W przypadku niepowodzenia siły stron będą równe
+
+############################################################################################
